@@ -35,16 +35,22 @@ Two approaches are used:
 
 ---
 
-## 📊 Dataset
+## Dataset
 
-- Employee Attrition Dataset (IBM HR Analytics)
-- Features include:
-  - Age
-  - Monthly Income
-  - Years at Company
-  - Job Satisfaction
+IBM HR Analytics Employee Attrition Dataset
 
----
+- Source: IBM Sample Data (public dataset)
+- File: `WA_Fn-UseC_-HR-Employee-Attrition.csv`
+
+Features used:
+- Age  
+- Monthly Income  
+- Years at Company  
+- Job Satisfaction  
+- (Optional) Environment Satisfaction, Work-Life Balance  
+
+Target Variable:
+- Attrition (Yes = 1, No = 0)
 
 ## ▶️ How to Run
 
