@@ -7,7 +7,7 @@ data = readtable('../data/employee_attrition.csv');
 if iscell(data.Attrition)
     y = strcmp(data.Attrition, 'Yes');
 else
-    y = strcmp(data.Attrition, 'Yes'); % Convert Yes/No → 1/0
+    y = strcmp(data.Attrition);
 end
 
 % Select predictors
