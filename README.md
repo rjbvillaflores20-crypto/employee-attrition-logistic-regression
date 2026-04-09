@@ -49,7 +49,7 @@ Two approaches are used:
 ## ▶️ How to Run
 
 1. Open MATLAB
-2. Navigate to `/src`
+2. Navigate to `/employ`
 3. Run:
 
 ```matlab
